@@ -1,7 +1,18 @@
 {
-  "name": "Potmeter",
-  "description": "A fun interactive dial mini app for Farcaster.",
-  "icon": "https://potmeter.vercel.app/dial_knob.png",
-  "website": "https://potmeter.vercel.app",
-  "redirect": "https://potmeter.vercel.app"
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwNzY4NDgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg5QzgyQzlFMTAzZmI2N2I2NTJkYmQ5RUVEMkQ5MDRkODMwODY3NURkIn0",
+    "payload": "eyJkb21haW4iOiJwb3RtZXRlci1jaHd4NjFyemktd2Vnb25hcnMtcHJvamVjdHMudmVyY2VsLmFwcCJ9",
+    "signature": "MHgzNTRiNWE3OGE0NTU4YjQ0YmMxOWIyODM5ZDU2MDBkZGYwYjFjMjNmMjdkMzk3MmFiMzJjMjkyOTAwOWZjNjEwNzZiZDUzY2YxNDE5NWFiYjBiN2VkZjQ4ODhmOTg1NGIxNjNmOTNkMWRmN2UyM2I2ZjMwNzBjYjQ2MzM1YTY4YzFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Potmeter",
+    "iconUrl": "https://potmeter.vercel.app/icon.png",
+    "homeUrl": "https://potmeter.vercel.app",
+    "imageUrl": "https://potmeter.vercel.appimage.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://potmeter.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://potmeter.vercel.app/api/webhook"
+  }
 }
