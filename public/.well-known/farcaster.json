@@ -1,0 +1,18 @@
+{
+    "accountAssociation": {
+      "header": "eyJmaWQiOjEwNzY4NDgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg5QzgyQzlFMTAzZmI2N2I2NTJkYmQ5RUVEMkQ5MDRkODMwODY3NURkIn0",
+      "payload": "eyJkb21haW4iOiJwb3RtZXRlci1jaHd4NjFyemktd2Vnb25hcnMtcHJvamVjdHMudmVyY2VsLmFwcCJ9",
+      "signature": "MHgzNTRiNWE3OGE0NTU4YjQ0YmMxOWIyODM5ZDU2MDBkZGYwYjFjMjNmMjdkMzk3MmFiMzJjMjkyOTAwOWZjNjEwNzZiZDUzY2YxNDE5NWFiYjBiN2VkZjQ4ODhmOTg1NGIxNjNmOTNkMWRmN2UyM2I2ZjMwNzBjYjQ2MzM1YTY4YzFi"
+    },
+    "frame": {
+      "version": "1",
+      "name": "Example Frame",
+      "iconUrl": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app/dial_knob.png",
+      "homeUrl": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app",
+      "imageUrl": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app/dial_knob.png",
+      "buttonTitle": "Check this out",
+      "splashImageUrl": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app/splash.png",
+      "splashBackgroundColor": "#eeccff",
+      "webhookUrl": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app/api/webhook"
+    }
+  }
