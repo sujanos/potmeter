@@ -1,7 +1,7 @@
 {
   "name": "Potmeter",
   "description": "A fun interactive dial mini app for Farcaster.",
-  "icon": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app/dial_knob.png",
-  "website": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app",
-  "redirect": "https://potmeter-chwx61rzi-wegonars-projects.vercel.app"
+  "icon": "https://potmeter.vercel.app/dial_knob.png",
+  "website": "https://potmeter.vercel.app",
+  "redirect": "https://potmeter.vercel.app"
 }
